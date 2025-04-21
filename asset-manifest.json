@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/main.c0e1553e.js",
-    "index.html": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/index.html",
-    "main.c0e1553e.js.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/main.c0e1553e.js.map"
+    "main.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.2ea660f6.js",
+    "index.html": "/Document-Management-and-RAG-based-Q-A-Application/index.html",
+    "main.2ea660f6.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.2ea660f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.c0e1553e.js"
+    "static/js/main.2ea660f6.js"
   ]
 }
