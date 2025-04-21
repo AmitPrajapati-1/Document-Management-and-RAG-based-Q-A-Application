@@ -18,7 +18,7 @@ const Dashboard = () => {
 
   const fetchDocuments = () => {
     const token = localStorage.getItem('token');
-    fetch('http://localhost:3001/api/dashboard', {
+    fetch('https://document-management-and-rag-based-q-a.onrender.com/api/dashboard', {
       headers: { Authorization: `Bearer ${token}` },
     })
       .then((res) => res.json())
@@ -49,7 +49,7 @@ const Dashboard = () => {
   const handleUpload = () => {
     const token = localStorage.getItem('token');
     if (newDoc.title && newDoc.content) {
-      fetch('http://localhost:3001/api/upload', {
+      fetch('https://document-management-and-rag-based-q-a.onrender.com/api/upload', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -76,7 +76,7 @@ const Dashboard = () => {
 
   const handleDelete = (id) => {
     const token = localStorage.getItem('token');
-    fetch(`http://localhost:3001/api/document/${id}`, {
+    fetch(`https://document-management-and-rag-based-q-a.onrender.com/api/document/${id}`, {
       method: 'DELETE',
       headers: { Authorization: `Bearer ${token}` },
     })
@@ -152,7 +152,7 @@ const Dashboard = () => {
 
     try {
       setAnswer('Loading...'); 
-      const response = await fetch('http://localhost:3002/api/ask', {
+      const response = await fetch('https://document-management-and-rag-based-q-a.onrender.com/api/ask', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

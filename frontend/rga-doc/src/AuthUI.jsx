@@ -20,7 +20,7 @@ const AuthUI = () => {
     const endpoint = activeTab === 'signin' ? '/api/login' : '/api/register';
 
     try {
-      const res = await fetch(`http://localhost:3001${endpoint}`, {
+      const res = await fetch(`https://document-management-and-rag-based-q-a.onrender.com${endpoint}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),

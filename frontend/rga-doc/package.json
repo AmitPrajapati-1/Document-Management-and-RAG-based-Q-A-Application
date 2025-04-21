@@ -2,7 +2,6 @@
   "name": "rga-doc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amitprajapati-1.github.io/Document-Management-and-RAG-based-Q-A-Application",
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
     "@testing-library/dom": "^10.4.0",
