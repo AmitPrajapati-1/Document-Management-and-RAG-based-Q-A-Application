@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 
 ReactDOM.render(
-  <BrowserRouter basename="/repo-name/frontend">
+  <BrowserRouter basename="/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc">
     <App />
   </BrowserRouter>,
   document.getElementById("root")
