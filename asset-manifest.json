@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/css/main.e295b252.css",
-    "main.js": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/js/main.558bd87a.js",
-    "static/js/453.80d3c45f.chunk.js": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/js/453.80d3c45f.chunk.js",
-    "index.html": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/index.html",
-    "main.e295b252.css.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/css/main.e295b252.css.map",
-    "main.558bd87a.js.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/js/main.558bd87a.js.map",
-    "453.80d3c45f.chunk.js.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/tree/main/frontend/rga-doc/static/js/453.80d3c45f.chunk.js.map"
+    "main.css": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/css/main.e295b252.css",
+    "main.js": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/main.c27f6d32.js",
+    "static/js/453.80d3c45f.chunk.js": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/453.80d3c45f.chunk.js",
+    "index.html": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/index.html",
+    "main.e295b252.css.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/css/main.e295b252.css.map",
+    "main.c27f6d32.js.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/main.c27f6d32.js.map",
+    "453.80d3c45f.chunk.js.map": "/AmitPrajapati-1/Document-Management-and-RAG-based-Q-A-Application/frontend/rga-doc/static/js/453.80d3c45f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e295b252.css",
-    "static/js/main.558bd87a.js"
+    "static/js/main.c27f6d32.js"
   ]
 }
