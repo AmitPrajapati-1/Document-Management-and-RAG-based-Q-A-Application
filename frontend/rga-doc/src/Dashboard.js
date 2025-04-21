@@ -152,7 +152,7 @@ const Dashboard = () => {
 
     try {
       setAnswer('Loading...'); 
-      const response = await fetch('https://document-management-and-rag-based-q-a.onrender.com/api/ask', {
+      const response = await fetch('http://localhost:3002/api/ask', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
