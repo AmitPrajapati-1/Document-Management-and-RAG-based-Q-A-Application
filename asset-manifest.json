@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.2ea660f6.js",
+    "main.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.3c681f05.js",
     "index.html": "/Document-Management-and-RAG-based-Q-A-Application/index.html",
-    "main.2ea660f6.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.2ea660f6.js.map"
+    "main.3c681f05.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.3c681f05.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ea660f6.js"
+    "static/js/main.3c681f05.js"
   ]
 }
