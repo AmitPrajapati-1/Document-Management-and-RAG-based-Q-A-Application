@@ -2,13 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import './index.css';
+import { BrowserRouter } from 'react-router-dom'; // Import BrowserRouter
 import reportWebVitals from './reportWebVitals';
 
+// Create a root element for the React app
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+// Render the app, wrapped in BrowserRouter with the basename
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter basename="/Document-Management-and-RAG-based-Q-A-Application">
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
