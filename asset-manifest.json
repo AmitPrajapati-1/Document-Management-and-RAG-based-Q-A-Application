@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.3c681f05.js",
+    "main.css": "/Document-Management-and-RAG-based-Q-A-Application/static/css/main.e295b252.css",
+    "main.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.57db694d.js",
+    "static/js/453.80d3c45f.chunk.js": "/Document-Management-and-RAG-based-Q-A-Application/static/js/453.80d3c45f.chunk.js",
     "index.html": "/Document-Management-and-RAG-based-Q-A-Application/index.html",
-    "main.3c681f05.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.3c681f05.js.map"
+    "main.e295b252.css.map": "/Document-Management-and-RAG-based-Q-A-Application/static/css/main.e295b252.css.map",
+    "main.57db694d.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/main.57db694d.js.map",
+    "453.80d3c45f.chunk.js.map": "/Document-Management-and-RAG-based-Q-A-Application/static/js/453.80d3c45f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c681f05.js"
+    "static/css/main.e295b252.css",
+    "static/js/main.57db694d.js"
   ]
 }
