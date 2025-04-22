@@ -97,7 +97,7 @@ Upload your documents (PDF, DOCX, TXT), and ask questions — get instant answer
       
       npm run dev
   ## Server will run at: 
-    https://stellular-gaufre-d68537.netlify.app/](https://document-management-and-rag-based-q-a.onrender.com
+    https://document-management-and-rag-based-q-a.onrender.com
   
   ### 3. Setup Frontend
       
