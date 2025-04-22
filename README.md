@@ -96,7 +96,8 @@ Upload your documents (PDF, DOCX, TXT), and ask questions — get instant answer
   ## Start the backend server:
       
       npm run dev
-  ## Server will run at: http://localhost:3002      
+  ## Server will run at: 
+    https://stellular-gaufre-d68537.netlify.app/
   
   ### 3. Setup Frontend
       
